@@ -1,4 +1,4 @@
-# Primeiro-Projeto-L-gico-de-Banco-de-Dados-DIO
+# Primeiro-Projeto-Lógico-de-Banco-de-Dados-DIO
 
 🛒 E-Commerce Database Modeling Project
 
